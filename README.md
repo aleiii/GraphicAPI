@@ -11,4 +11,4 @@
 
 实现了线段，任意圆弧，完整椭圆，阴影线填充，漫水填充基本函数，以及最后是简单地调用这些函数画的一个 “雷” 字。
 
-![](D:\learn\project_work\GraphicAPI\src\img\res.png)
+![](src\img\res.png)
